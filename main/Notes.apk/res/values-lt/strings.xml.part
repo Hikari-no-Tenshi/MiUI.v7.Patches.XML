@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="all_terms">%1$s ir %2$s</string>
+    <string name="sns_choose_quality_high">Aukšta (%1$s)</string>
+    <string name="enable_sync_desc">Sinchronizuoti užrašus su Mi Paskyra (%1$s)?</string>
+    <string name="snippet_image_template">[Paveikslėlis %1$s]</string>
+    <string name="micloud_state_total_count">%1$s</string>
+    <string name="format_move_notes_out_folder">Perkelta: %1$s</string>
+    <string name="format_move_notes_to_folder">Užrašas %1$s perkeltas į %2$s</string>
+    <string name="alert_message_delete">Ištrinti %1$s?</string>
+</resources>

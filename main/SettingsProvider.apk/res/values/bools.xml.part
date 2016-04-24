@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="def_install_non_market_apps">true</bool>
+    <bool name="def_package_verifier_enable">false</bool>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="status_bar_recent_memory_info1">%1$s of %2$s available</string>
+    <string name="hnt_mb">" MB"</string>
+    <string name="hnt_gb">" GB"</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="block_message_number">SMS: &lt;font color=#5fab1b>%d&lt;/font></string>
+    <string name="block_phone_number">Calls: &lt;font color=#5fab1b>%d&lt;/font></string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="confirm_merge_face_albums">Sulieti šį albumą su %s?</string>
+    <string name="confirm_merge_many_face_albums">Sulieti šiuos albumus su %s?</string>
+    <string name="has_invalid_recipient">Nekorektiški gavėjai: %1$s</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
+    <string name="invite_sharer_title">Pakviesti %1$s %2$s</string>
+    <string name="invite_sharer_relation_tip">Santykiai su %1$s</string>
+    <string name="confirm_recommandation_face_is">Ar jūs isitikinęs kad tai &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Šis veidas bus perkeltas į \"%2$s\" albumą po patvirtinimo.</string>
+    <string name="confirm_recommandation_multiple_faces_are">Ar jūs isitikinę, kad tai &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Šie veidai bus perkelti į \"%2$s\" albumą po patvirtinimo.</string>
+    <string name="confirm_recommandation_face_not">Ar jūs isitikinęs kad tai ne &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Šis veidas bus perkeltas į \"%2$s\" albumą po patvirtinimo.</string>
+    <string name="confirm_recommandation_multiple_faces_not">Ar jūs isitikinę, kad tai ne &lt;font color=#323232>&lt;b>%1$s&lt;/b>&lt;/font>? Šie veidai bus perkelti į \"%2$s\" albumą po patvirtinimo.</string>
+</resources>

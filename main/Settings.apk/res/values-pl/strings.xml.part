@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="music_headset_settings">Opcje zestawu sluchawkowego</string>
+    <string name="charging_sounds">Dźwięk podłączania ładowarki</string>
+    <string name="volume_sounds">Dźwięk przy zmianie głośności</string>
+    <string name="volbtn_cursor_control_title">Sterowanie kursorem klawiatury</string>
+    <string name="volbtn_cursor_control_on">Volume up/down moves cursor left/right</string>
+    <string name="volbtn_cursor_control_off">Wyłączono</string>
+    <string name="volbtn_cursor_control_on_reverse">Volume up/down przesuwa kursor w lewo/w prawo</string>
+</resources>

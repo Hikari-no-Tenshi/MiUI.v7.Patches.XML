@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="volbtn_cursor_control_entries" translatable="false">
+        <item>@string/volbtn_cursor_control_off</item>
+        <item>@string/volbtn_cursor_control_on</item>
+        <item>@string/volbtn_cursor_control_on_reverse</item>
+    </string-array>
+    <string-array name="volbtn_cursor_control_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

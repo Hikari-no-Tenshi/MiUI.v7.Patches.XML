@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="music_headset_settings">Настройки гарнитуры</string>
+    <string name="wifi_type_approval" />
+    <string name="charging_sounds">Звук подключения зарядки</string>
+    <string name="volume_sounds">Звук при изменении громкости</string>
+    <string name="volbtn_cursor_control_title">Управление курсором кнопками громкости</string>
+    <string name="volbtn_cursor_control_off">Выключено</string>
+    <string name="volbtn_cursor_control_on">Кнопки громкости +/- перемещают курсор влево/вправо</string>
+    <string name="volbtn_cursor_control_on_reverse">Кнопки громкости +/- перемещают курсор вправо/влево</string>
+</resources>
